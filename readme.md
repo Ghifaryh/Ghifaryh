@@ -27,3 +27,8 @@
 | | |
 | --- | --- |
 | <img src="https://github-readme-stats-fast.vercel.app/api?username=Ghifaryh&show_icons=true&theme=radical" alt="GitHub Stats" height="195" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghifaryh&theme=radical" alt="GitHub Streak" height="195" /> |
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ghifaryh&style=for-the-badge&color=8a2be2" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Ghifaryh?label=Follow&style=for-the-badge&logo=github&color=0e76a8" alt="GitHub Followers" />
+</p>
