@@ -8,7 +8,7 @@
 
 #### Frontend
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Astro](https://img.shields.io/badge/astro-%230C1222.svg?style=for-the-badge&logo=astro&logoColor=white)
 
 #### Backend & Frameworks
@@ -25,6 +25,9 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ghifaryh&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=Ghifaryh&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- Stable alternative for general stats -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ghifaryh&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
+  <!-- High-reliability streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghifaryh&theme=radical" alt="GitHub Streak" />
 </p>
