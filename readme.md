@@ -24,10 +24,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <!-- Stable alternative for general stats -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ghifaryh&show_icons=true&theme=radical" alt="GitHub Stats" />
-  
-  <!-- High-reliability streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghifaryh&theme=radical" alt="GitHub Streak" />
-</p>
+| | |
+| --- | --- |
+| <img src="https://github-readme-stats-fast.vercel.app/api?username=Ghifaryh&show_icons=true&theme=radical" alt="GitHub Stats" height="195" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghifaryh&theme=radical" alt="GitHub Streak" height="195" /> |
